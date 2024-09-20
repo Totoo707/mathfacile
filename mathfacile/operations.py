@@ -5,7 +5,7 @@ def additionner(a, b):
 
 def soustraire(a, b):
     """Retranche le nombre b au nombre a."""
-    return a + b
+    return a - b
 
 
 def multiplier(a, b):
