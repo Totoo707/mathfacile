@@ -7,6 +7,7 @@ Noms :
 
 Hypatie d'Alexandrie
 Ada Lovelace
+Edsger Dijkstra
 
 Branches : 
 
